@@ -1,2 +1,2 @@
-# kaggle
- my kaggle competitions solutions
+# My Kaggle competitions solutions
+---
